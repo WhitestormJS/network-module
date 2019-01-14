@@ -1,5 +1,5 @@
 # network-module [![NPM Version](https://img.shields.io/npm/v/physics-module-ammonext.svg?style=flat-square)](https://www.npmjs.com/package/network-module)
-Networking module for Whitestorm.js [Beta]
+Networking module for Whitestorm.js [Alpha]
 
 > Go to [WhitestormJS/whitestorm.js](https://github.com/WhitestormJS/whitestorm.js)
 
