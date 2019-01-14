@@ -1,2 +1,21 @@
-# network-module
-Network module for Whitestorm.js (alpha)
+# network-module [![NPM Version](https://img.shields.io/npm/v/physics-module-ammonext.svg?style=flat-square)](https://www.npmjs.com/package/network-module)
+Networking module for Whitestorm.js [Beta]
+
+> Go to [WhitestormJS/whitestorm.js](https://github.com/WhitestormJS/whitestorm.js)
+
+# Modules List
+
+## `new NETWORK.Connection()`
+
+```javascript
+const app = new WHS.App({
+  // ...
+  new NETWORK.Connection({
+    host: 'localhost',
+    port: 3000,
+    protocol: 'http'
+  })
+});
+
+app.start();
+```
