@@ -3,6 +3,8 @@ Networking module for Whitestorm.js [Beta]
 
 > Go to [WhitestormJS/whitestorm.js](https://github.com/WhitestormJS/whitestorm.js)
 
+![physics module](http://i.imgur.com/ZdMhDwb.png)
+
 # Modules List
 
 ## `new NETWORK.Connection()`
